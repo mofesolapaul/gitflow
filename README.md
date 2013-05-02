@@ -1,30 +1,42 @@
-#[Your Project Name Goes Here]
+#GIT Flow Training Repo
 
 ##Documentation
 
-[Where is the core documention for your project found?]
+You can find all documentation about GIT Flow in [Confluence](https://confluence.meltdev.com/display/DEV/Git+Flow)
 
 ##Setup
 
-[What do people need to have installed on their machines to run this project?]
+This project assumes you are setup to run Node JS applications.
+
+- node v0.8.x or v0.10.x
+- npm v1.1.x or v1.2.x
+
+```
+$ npm install
+```
 
 ##Build
 
-[What do people need to do to build this project?]
+```
+$ grunt build
+```
 
 ##Run
 
-[What do people need to do to run this project?]
-
-[How do people verify that the system is running?]
+```
+$ node server
+```
 
 ##Test
+Tests are run using QUnit
 
-[How do people run the tests?]
-
-[How do people run automated tests?]
+```
+$ grunt test
+```
 
 ##Deploy
+
+_As this is an example we don't have any deployment information. Normally you would see that here._
 
 [What do people need to do to deploy this into Development?]
 
@@ -36,9 +48,5 @@
 
 
 ##Release
-
-[What is the release process used by this project?]
-
-[We curently use GitFlow on most of our projects but your specific technology may need additional steps for preperation for release.]
 
 This project uses the [Git Flow](https://confluence.meltdev.com/display/DEV/Git+Flow) process for getting changes into the project.
