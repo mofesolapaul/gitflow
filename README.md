@@ -18,13 +18,13 @@ $ npm install
 ##Build
 
 ```
-$ grunt build
+$ npm run-script build
 ```
 
 ##Run
 
 ```
-$ node server
+$ npm start
 ```
 
 ##Test
