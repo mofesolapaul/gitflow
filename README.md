@@ -28,7 +28,12 @@ $ npm start
 ```
 
 ##Test
-Tests are run using QUnit
+Tests are run using Grunt and executed in QUnit
+
+You will need the `grunt-cli` installed on your machine to properly execute these tests. You can do that by running the command below.
+```
+$ npm install -g grunt-cli
+```
 
 ```
 $ grunt test
