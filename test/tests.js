@@ -3,5 +3,5 @@ test( "hello test", function() {
 });
 
 test("All my stuff works bro", function() {
-  ok( 2 == "2", "All goo din the hood.");
+  ok( 1 == "2", "All goo din the hood.");
 });
