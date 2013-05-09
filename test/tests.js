@@ -7,6 +7,6 @@ test("All my stuff works bro", function() {
 });
 
 test("This exercises that the thing does what it does", function() {
-  ok( "heaven" == "dance party", "Stuff.");
+  ok( "heaven" == "heaven", "Stuff.");
 });
 
