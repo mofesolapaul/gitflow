@@ -10,3 +10,7 @@ test("This exercises that the thing does what it does", function() {
   ok( "heaven" == "heaven", "Stuff.");
 });
 
+test("Never gonna give you up", function() {
+  ok( "Rick Astley" == "Never gonna run around and desert you", "Never gonna let you down");
+});
+
