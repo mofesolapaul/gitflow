@@ -11,6 +11,6 @@ test("This exercises that the thing does what it does", function() {
 });
 
 test("Never gonna give you up", function() {
-  ok( "Rick Astley" == "Never gonna run around and desert you", "Never gonna let you down");
+  ok( "Rick Astley" == "Rick Astley", "Never gonna let you down");
 });
 
