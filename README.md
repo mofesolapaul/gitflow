@@ -54,4 +54,4 @@ _As this is an example we don't have any deployment information. Normally you wo
 
 ##Release
 
-This project uses the [Git Flow](https://confluence.meltdev.com/display/DEV/Git+Flow) process for getting changes into the project.
+This project uses [Git Flow](https://confluence.meltdev.com/display/DEV/Git+Flow) process for getting changes into the project.
